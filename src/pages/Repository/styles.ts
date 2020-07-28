@@ -120,3 +120,4 @@ export const Issues = styled.form`
       color: #cbcbd6;
     }
   }
+`;
