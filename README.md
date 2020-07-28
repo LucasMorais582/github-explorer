@@ -3,6 +3,8 @@
 Aplicação que utiliza as ferramentas mais atuais disponíveis nas bibliotecas do ES6, ES7 e ES8 para realizar 
 buscas de repositórios no Github.
 
+<img src=”src/assets/github-explorer.jpg”>
+
 Ela consome a api do github através do Axios e realiza a estilização das páginas com o auxílio da biblioteca styled components.
 
 ## Tecnologias
